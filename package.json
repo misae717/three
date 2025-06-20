@@ -27,6 +27,7 @@
     "author" : "three.js contributors",
 
     "main" : "./three.js",
+    "module" : "./three.module.js",
 
     "repository" : {
         "type" : "git",
